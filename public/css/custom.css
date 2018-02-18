@@ -1,0 +1,12 @@
+body {
+  font-family: 'Dosis', sans-serif;
+}
+
+footer {
+  margin-top : 20px;
+}
+
+.blur-text {
+  color : transparent;
+  text-shadow : 0 0 20px rgba(0,0,0,0.65)
+}
